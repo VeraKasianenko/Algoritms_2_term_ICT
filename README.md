@@ -1,4 +1,4 @@
-# Алгоритмы 2 семестр
+# Алгоритмы и структуры данных 2 семестр
 ## Инфокоммуникационные технологии
 ### Лекции
 [Презентации](https://github.com/VeraKasianenko/Algoritms_2_term_ICT/tree/main/lectures)
